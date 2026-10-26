@@ -1,4 +1,3 @@
-
 :root {
   --ink: #45533d;
   --muted: #818873;
@@ -1273,4 +1272,17 @@ h2 em {
     transition: none !important;
     animation: none !important;
   }
+}
+
+.button-instagram {
+  background: #879B83;
+  color: #fff;
+  border: 1px solid #879B83;
+  transition: all 0.3s ease;
+}
+
+.button-instagram:hover {
+  background: #526B50;
+  border-color: #526B50;
+  transform: translateY(-3px);
 }
