@@ -1272,17 +1272,16 @@ h2 em {
     transition: none !important;
     animation: none !important;
   }
-}
 
 .button-instagram {
-  background: #879B83;
-  color: #fff;
-  border: 1px solid #879B83;
+  background: #D98FA3;
+  color: #FFFFFF;
+  border: 1px solid #D98FA3;
   transition: all 0.3s ease;
 }
 
 .button-instagram:hover {
-  background: #526B50;
-  border-color: #526B50;
+  background: #C4778D;
+  border-color: #C4778D;
   transform: translateY(-3px);
 }
